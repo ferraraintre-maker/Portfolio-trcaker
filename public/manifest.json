@@ -1,0 +1,25 @@
+{
+  "short_name": "Portfolio",
+  "name": "Crypto & Stock Portfolio Tracker",
+  "description": "Monitora il tuo portafoglio finanziario, asset allocation e performance.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#070B11",
+  "theme_color": "#070B11",
+  "display": "standalone",
+  "orientation": "portrait"
+}
+
